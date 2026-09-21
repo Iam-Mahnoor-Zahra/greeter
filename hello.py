@@ -5,7 +5,7 @@ HTML = """<!DOCTYPE html>
   <head><title>Hello</title></head>
   <body style="font-family: sans-serif; text-align: center; margin-top: 20vh;">
     <h1>Hello, Mahnoor! 👋</h1>
-    <p>Served by Python.</p>
+    <p>Theories Dissolve when the Loss becomes yours</p>
   </body>
 </html>"""
 
